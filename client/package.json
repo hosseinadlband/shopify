@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.13",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0-beta3",
+    "graphql": "^15.5.0",
+    "install": "^0.13.0",
+    "jalali-react-datepicker": "^1.2.1",
+    "next": "^10.1.2",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap-icons": "^1.4.0",
+    "react-dom": "^17.0.2",
+    "react-select": "^4.3.0",
+    "react-toastify": "^7.0.3"
+  },
+  "license": "MIT"
+}
